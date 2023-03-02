@@ -1,0 +1,12 @@
+{
+"title" : "Mr.Croc's Linkmanager",
+"type" : "ServerContent",
+"tags" : [ "roleplay", "fun" ],
+"description" : "Mr.Croc's Linkmanager is a simple and lighweight addon used to\n help the players on your server.\n\nConfigure it using cl_croclinks.lua (just change links and button names as you wish)",
+"ignore" :
+[
+"*.psd",
+"*.vcproj",
+"*.svn"
+]
+}
